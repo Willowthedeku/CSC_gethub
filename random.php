@@ -6,7 +6,10 @@
 </head>
 <body>
 <?php
-echo(mt_rand(1, 99));
+$randonuumber = mt_rand(1, 99);
+print "<p>$randonuumber</P>";
+$randonuumber --;
+print "<p>$randonuumber</P>";
 ?>
 </body>
 </html>

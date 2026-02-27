@@ -6,8 +6,8 @@
 </head>
 <body>
 <?php
-	$first = "Willow";
-	$last = "theDeku";
+	$first = "William";
+	$last = "Sawdy";
 	$street = "6928 Johnsonville Wy";
 	$city = "Sheboygan Falls";
 	$state = "WI";
@@ -17,5 +17,4 @@
 	<br>$city $state $zip</p>";
 ?>
 </body>
-
 </html>
